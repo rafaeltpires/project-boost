@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rafaeltpires/project-boost">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/MN2Zgxn/167c9c60352e4c6394980c6fb98854ad.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Project Boost</h3>
@@ -60,7 +60,7 @@ Rafael Pires - jorgertpires@gmail.com
 
 Project Link: [https://github.com/rafaeltpires/project-boost](https://github.com/rafaeltpires/project-boost)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>img 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -75,7 +75,7 @@ Project Link: [https://github.com/rafaeltpires/project-boost](https://github.com
 [license-shield]: https://img.shields.io/github/license/rafaeltpires/obstacle-course-unity.svg?style=for-the-badge
 [license-url]: https://github.com/rafaeltpires/obstacle-course-unity/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/rafael-pires-3b89b710b
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
