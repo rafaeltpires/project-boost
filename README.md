@@ -18,6 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -31,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rafaeltpires/project-boost">
-    <img src="https://i.ibb.co/MN2Zgxn/167c9c60352e4c6394980c6fb98854ad.png" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/MN2Zgxn/167c9c60352e4c6394980c6fb98854ad.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Project Boost</h3>
