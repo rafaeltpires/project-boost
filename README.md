@@ -61,7 +61,7 @@ Rafael Pires - jorgertpires@gmail.com
 
 Project Link: [https://github.com/rafaeltpires/project-boost](https://github.com/rafaeltpires/project-boost)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>img 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
