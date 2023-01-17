@@ -41,6 +41,8 @@ public class Movement : MonoBehaviour
 
     void ApplyRotation(float rotationThisFrame)
     {
+        rb.freezeRotation = true; // para corrigir bug de colisão com objectos, congelamos a rotação
         transform.Rotate(Vector3.forward * rotationThisFrame * Time.deltaTime);
-    }
+        rb.freezeRotation = false; // descongelamos a rotação no fim
+    } 
 }
