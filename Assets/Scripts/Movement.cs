@@ -5,12 +5,15 @@ using UnityEngine;
 public class Movement : MonoBehaviour
 {
     Rigidbody rb;
+    AudioSource thrustSound;
+
     [SerializeField] float mainThrust = 1000f;
     [SerializeField] float rotationThrust = 150f;
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody>();
+        thrustSound = GetComponent<AudioSource>();
     }
     // Update is called once per frame
     void Update()
@@ -23,8 +26,17 @@ public class Movement : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.Space))
         {
+            if (!thrustSound.isPlaying)
+            {
+                thrustSound.Play();
+            }
             rb.AddRelativeForce(Vector3.up * mainThrust * Time.deltaTime);
         }
+        else
+        {
+            thrustSound.Stop();
+        }
+
     }
     // rotação da nave
     void ProcessRotation()
@@ -44,5 +56,5 @@ public class Movement : MonoBehaviour
         rb.freezeRotation = true; // para corrigir bug de colisão com objectos, congelamos a rotação
         transform.Rotate(Vector3.forward * rotationThisFrame * Time.deltaTime);
         rb.freezeRotation = false; // descongelamos a rotação no fim
-    } 
+    }
 }
