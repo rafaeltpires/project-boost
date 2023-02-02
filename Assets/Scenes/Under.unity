@@ -123,23 +123,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &688391629 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1151391951254399438, guid: d6b2690b95ed3b4438a0d56a4d396139, type: 3}
-  m_PrefabInstance: {fileID: 1151391951865885549}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &688391637
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 688391629}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1a834109ee9813d41934784f86119702, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -372,10 +355,6 @@ PrefabInstance:
     - target: {fileID: 1151391951254399438, guid: d6b2690b95ed3b4438a0d56a4d396139, type: 3}
       propertyPath: m_Name
       value: Rocket
-      objectReference: {fileID: 0}
-    - target: {fileID: 1151391951254399438, guid: d6b2690b95ed3b4438a0d56a4d396139, type: 3}
-      propertyPath: m_TagString
-      value: Friendly
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d6b2690b95ed3b4438a0d56a4d396139, type: 3}
