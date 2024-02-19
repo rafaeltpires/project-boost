@@ -34,6 +34,7 @@
   <a href="https://github.com/rafaeltpires/project-boost">
     <img src="https://i.ibb.co/MN2Zgxn/167c9c60352e4c6394980c6fb98854ad.png" alt="Logo" width="200" height="200">
   </a>
+</div>
 
 <h3 align="center">Project Boost</h3>
 
@@ -58,6 +59,13 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ## Contact
 
 Rafael Pires - jorgertpires@gmail.com
+
+<!-- Credits -->
+## Credits
+
+* [Success Sound](https://freesound.org/people/grunz/sounds/109662/)
+* [Lose Sound](https://freesound.org/people/Yoshicakes77/sounds/703542/)
+* [Rocket Thrust](https://freesound.org/people/metrostock99/sounds/203264/)
 
 Project Link: [https://github.com/rafaeltpires/project-boost](https://github.com/rafaeltpires/project-boost)
 
